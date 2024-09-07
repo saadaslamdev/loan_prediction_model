@@ -4,6 +4,8 @@
 
 The Loan Eligibility Prediction System is a data science project aimed at predicting the approval status of loan applications. This system evaluates user-provided data to determine the likelihood of loan approval and provides notifications about the approval status.
 
+![Loan Prediction System Overview](images/LoanApproved.JPG)
+
 ## Libraries and Tools Used
 
 - **Python Libraries:**
