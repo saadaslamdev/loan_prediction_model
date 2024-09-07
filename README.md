@@ -61,3 +61,5 @@ To use the Loan Eligibility Prediction System, follow these instructions to inte
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/loan-eligibility-prediction.git
+
+2. Import necessary libraries used in project
